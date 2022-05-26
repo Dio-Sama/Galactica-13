@@ -1,0 +1,61 @@
+Captain=CDR
+Executive Officer=LTCDR
+Head of Security=FLT
+Chief Engineer=SLT
+Research Director=SLT
+Chief Medical Officer=ENS
+Master At Arms=ENS
+Warden=CPO
+
+Bridge Staff=MCPO
+
+Midshipman=CMN
+
+Quartermaster=CPO
+Cargo Technician=PO3
+Shaft Miner=PO2
+
+Bartender=CIV
+Cook=CIV
+Botanist=CIV
+Janitor=CIV
+
+Clown=CIV
+Mime=CIV
+Curator=CIV
+Lawyer=CIV
+
+Chaplain=PO3
+
+Station Engineer=PO3
+Atmospheric Technician=PO3
+
+Medical Doctor=PO2
+Paramedic=PO1
+Chemist=PO3
+Geneticist=PO2
+Virologist=PO2
+
+Scientist=CIV
+Roboticist=CIV
+
+Detective=CMN
+Military Police=PO2
+Brig Physician=PO2
+Deputy=CMN
+
+Flight Leader=CWO
+Air Traffic Controller=CWO
+Munitions Technician=PO3
+Deck Technician=PO3
+Fighter Pilot=WO
+
+Debtor=CIV
+Psychiatrist=CIV
+Stage Magician=CIV
+Barber=CIV
+Gimmick=CIV
+VIP=VIP
+
+AI=CORE
+Cyborg=SPU

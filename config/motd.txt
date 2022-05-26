@@ -1,0 +1,8 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>This server is an in-dev version of Kobol-13! Join our Discord for more info.</h1>
+<br><i>
+<br><b></a></b>
+<br><b>>Click Me!</a></b>
+<br><b>Wiki(Default NSV wiki): 	<a href="http://nsv.beestation13.com/wiki">Click Me!</a></b>
+<br><b>

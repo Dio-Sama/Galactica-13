@@ -1,0 +1,26 @@
+# This list auto requests reviews from the specified org members
+# when a PR that modifies the file in question is opened
+# This list is alphabetized by User -> Filename KEEP IT THAT WAY
+# In the event that multiple org members are to be informed of changes
+# to the same file or dir, add them to the end under Multiple Owners
+
+# qwertyquerty
+/code/modules/collision @qwertyquerty
+
+# Management Teams
+
+/_maps/ @BeeStation/nsv-mapping
+
+# Multiple Owners
+/SQL/ @francinum @Ansome101 @Bokkiewokkie
+/SQL/database_changelog.txt @francinum @Ansome101 @Bokkiewokkie
+/config @francinum @Ansome101 @Bokkiewokkie
+
+/code/__DEFINES/MC.dm @francinum @covertcorvid @Karmic-Skink
+/code/__DEFINES/tick.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/admin.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/master.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/failsafe.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/subsystem.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/subsystem/dbcore.dm @francinum @covertcorvid @Karmic-Skink
+/code/controllers/subsystem/timer.dm @francinum @covertcorvid @Karmic-Skink

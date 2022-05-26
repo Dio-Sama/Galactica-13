@@ -1,0 +1,11 @@
+{
+	"map_name": "Orbital Gantry",
+    "map_path": "templates/boarding",
+    "map_file": ["orbitalhabitat.dmm"],
+	"traits": [
+		{
+			"Boardable Ship": 1
+		}
+	],
+	"ship_type": "/obj/structure/overmap/trader/aerelon"
+}

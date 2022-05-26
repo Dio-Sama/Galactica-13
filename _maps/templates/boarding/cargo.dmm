@@ -1,0 +1,129 @@
+"bZ" = (/obj/item/radio/intercom/directional/west,/obj/machinery/computer/ship/viewscreen{pixel_y = 29},/turf/open/indestructible/dropship{icon_state = "rasputin6"},/area/dropship/generic)
+"cA" = (/turf/closed/wall/indestructible/dropship{icon_state = "97"},/area/dropship/generic)
+"cS" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_middle_lc"},/area/dropship/generic)
+"da" = (/obj/effect/turf_decal/bot/left,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"dl" = (/turf/open/indestructible/dropship{icon_state = "rasputin6"},/area/dropship/generic)
+"gV" = (/turf/closed/wall/indestructible/dropship{icon_state = "86"},/area/dropship/generic)
+"hs" = (/obj/structure/sign/ship/fire{dir = 4; name = "FLAMMABLE"},/turf/closed/wall/indestructible/dropship{icon_state = "18"},/area/dropship/generic)
+"ht" = (/obj/effect/turf_decal/bot/right,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"ii" = (/obj/machinery/light{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"is" = (/obj/effect/turf_decal/stripes/line{dir = 9},/obj/structure/railing{dir = 9},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"ix" = (/turf/closed/wall/indestructible/dropship{icon_state = "96"},/area/dropship/generic)
+"kP" = (/turf/closed/wall/indestructible/dropship{icon_state = "78"},/area/dropship/generic)
+"ll" = (/obj/structure/railing/corner,/obj/structure/railing/corner{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"lp" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_wing_lt"},/area/dropship/generic)
+"lF" = (/turf/open/indestructible/dropship{icon_state = "rasputin4"},/area/dropship/generic)
+"mt" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_fr"},/area/dropship/generic)
+"mT" = (/obj/effect/turf_decal/caution/stand_clear,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"nw" = (/obj/machinery/computer/squad_manager{icon = 'nsv13/goonstation/icons/obj/computer.dmi'},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"nM" = (/obj/effect/turf_decal/stripes/line{dir = 4},/obj/structure/railing{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"oY" = (/obj/effect/landmark/dropship_entry,/turf/open/indestructible/dropship{icon_state = "rasputin3"},/area/dropship/generic)
+"pv" = (/obj/structure/sign/ship/nosmoking{dir = 4},/turf/closed/wall/indestructible/dropship{icon_state = "18"},/area/dropship/generic)
+"pR" = (/obj/structure/lattice/catwalk/over/ship/dark,/obj/structure/chair/comfy/dropship{dir = 1; name = "overwatch command centre"},/obj/machinery/requests_console{announcementConsole = 1; department = "Head of Security's Desk"; departmentType = 5; name = "Heron Overwatch RC"; pixel_x = 32; pixel_y = 26},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"re" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_wing_rb"},/area/dropship/generic)
+"rZ" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_fl"},/area/dropship/generic)
+"sG" = (/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/railing/corner{dir = 1},/obj/structure/railing/corner{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"sP" = (/turf/closed/wall/indestructible/dropship{icon_state = "13"},/area/dropship/generic)
+"sQ" = (/obj/machinery/vending/wallmed{pixel_y = 26},/obj/machinery/light{dir = 1},/turf/open/indestructible/dropship{icon_state = "rasputin5"},/area/dropship/generic)
+"tP" = (/obj/structure/railing/corner{dir = 8},/obj/structure/railing/corner{dir = 1},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"wR" = (/obj/effect/turf_decal/caution,/obj/machinery/light{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"xi" = (/turf/closed/wall/indestructible/dropship{icon_state = "10"},/area/dropship/generic)
+"xr" = (/turf/closed/wall/indestructible/dropship{icon_state = "80"},/area/dropship/generic)
+"xA" = (/turf/closed/wall/indestructible/dropship{icon_state = "12"},/area/dropship/generic)
+"xB" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_weapon_lr"},/area/dropship/generic)
+"xV" = (/obj/effect/turf_decal/stripes/line{dir = 8},/obj/structure/railing{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"yi" = (/obj/effect/landmark/dropship_entry,/turf/open/indestructible/dropship{icon_state = "rasputin8"},/area/dropship/generic)
+"yC" = (/turf/closed/wall/indestructible/dropship{icon_state = "18"},/area/dropship/generic)
+"yI" = (/obj/structure/sign/ship/securearea{name = "CAUTION: FASTEN YOUR SEATBELT"; pixel_y = -6},/turf/closed/wall/indestructible/dropship{icon_state = "80"},/area/dropship/generic)
+"zg" = (/obj/machinery/light/small,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"zm" = (/obj/structure/sign/ship/securearea{name = "CAUTION: FASTEN YOUR SEATBELT"; pixel_y = -6},/turf/closed/wall/indestructible/dropship{icon_state = "78"},/area/dropship/generic)
+"zL" = (/turf/closed/wall/indestructible/dropship{icon_state = "66"},/area/dropship/generic)
+"AA" = (/obj/machinery/light{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin3"},/area/dropship/generic)
+"AD" = (/obj/effect/turf_decal/bot,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"AY" = (/obj/effect/turf_decal/stripes/line{dir = 5},/obj/structure/railing{dir = 5},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Bz" = (/obj/machinery/computer/ship/navigation/console{dir = 1; pixel_y = 38},/obj/machinery/computer/ship/dradis/console{pixel_y = 19},/turf/open/indestructible/dropship{icon_state = "rasputin2"},/area/dropship/generic)
+"BH" = (/turf/closed/indestructible/cordon{alpha = 0},/area/space)
+"Cs" = (/obj/structure/railing/corner,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"CO" = (/obj/item/radio/intercom/directional/west,/obj/machinery/computer/ship/viewscreen{pixel_y = 29},/obj/structure/table/reinforced,/obj/item/paper_bin,/obj/item/stack/spacecash/c10,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Dl" = (/turf/open/indestructible/dropship{icon_state = "rasputin5"},/area/dropship/generic)
+"Dt" = (/obj/effect/turf_decal/arrows,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Du" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_rearwing_rt"},/area/dropship/generic)
+"DT" = (/turf/closed/wall/indestructible/dropship{icon_state = "11"},/area/dropship/generic)
+"DU" = (/obj/machinery/computer/ship/viewscreen{pixel_y = 29},/obj/structure/table/reinforced,/obj/item/paper_bin,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Ej" = (/obj/effect/turf_decal/bot_white,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Er" = (/turf/closed/wall/indestructible/dropship{icon_state = "47"},/area/dropship/generic)
+"EB" = (/obj/structure/sign/ship/fire{dir = 8; name = "FLAMMABLE"},/turf/closed/wall/indestructible/dropship{icon_state = "19"},/area/dropship/generic)
+"EJ" = (/turf/open/indestructible/dropship,/area/dropship/generic)
+"Fc" = (/turf/closed/wall/indestructible/dropship{icon_state = "81"},/area/dropship/generic)
+"Fh" = (/turf/open/indestructible/dropship{icon_state = "rasputin7"},/area/dropship/generic)
+"Fk" = (/turf/closed/wall/indestructible/dropship{icon_state = "98"},/area/dropship/generic)
+"Fw" = (/turf/closed/wall/indestructible/dropship/entry,/area/dropship/generic)
+"Gd" = (/turf/open/indestructible/dropship{icon_state = "rasputin3"},/area/dropship/generic)
+"Gl" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_cockpit_fr"},/area/dropship/generic)
+"GA" = (/turf/open/floor/holofloor/hyperspace,/area/space)
+"GR" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_middle_rc"},/area/dropship/generic)
+"HU" = (/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Jf" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_front"},/area/dropship/generic)
+"Kc" = (/obj/machinery/light{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin3"},/area/dropship/generic)
+"KT" = (/turf/closed/wall/indestructible/dropship{icon_state = "75"},/area/dropship/generic)
+"KX" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_weapon_rr"},/area/dropship/generic)
+"LB" = (/obj/structure/railing/corner{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"LL" = (/obj/machinery/door/airlock/ship/hatch{name = "cockpit"; req_one_access_txt = "69;72"},/turf/open/indestructible/dropship{icon_state = "rasputin3"},/area/dropship/generic)
+"Nj" = (/obj/effect/turf_decal/stripes/line{dir = 6},/obj/structure/railing{dir = 6},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"NL" = (/obj/effect/turf_decal/stripes/line{dir = 1},/obj/structure/railing{dir = 1},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"OD" = (/turf/closed/wall/indestructible/dropship{icon_state = "48"},/area/dropship/generic)
+"ON" = (/turf/closed/wall/indestructible/dropship{icon_state = "19"},/area/dropship/generic)
+"Pf" = (/obj/structure/sign/ship/plaque/dark,/turf/closed/wall/indestructible/dropship{icon_state = "81"},/area/dropship/generic)
+"Pw" = (/turf/closed/wall/indestructible/dropship{icon_state = "70"},/area/dropship/generic)
+"PS" = (/obj/machinery/computer/ship/helm/console/dropship,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"PV" = (/obj/machinery/computer/ship/viewscreen{pixel_y = 29},/turf/open/indestructible/dropship{icon_state = "rasputin7"},/area/dropship/generic)
+"PY" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_wing_rt"},/area/dropship/generic)
+"Qm" = (/turf/closed/wall/indestructible/dropship/entry{icon_state = "57"},/area/dropship/generic)
+"QE" = (/obj/effect/turf_decal/stripes/line{dir = 10},/obj/structure/railing{dir = 10},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Rf" = (/turf/closed/wall/indestructible/dropship{icon_state = "83"},/area/dropship/generic)
+"Rv" = (/obj/structure/lattice/catwalk/over/ship/dark,/obj/structure/chair/comfy/dropship{dir = 1; name = "overwatch command centre"},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Sc" = (/obj/effect/turf_decal/caution,/obj/machinery/light{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Sl" = (/obj/structure/sign/ship/nosmoking{dir = 8},/turf/closed/wall/indestructible/dropship{icon_state = "19"},/area/dropship/generic)
+"Sr" = (/obj/structure/railing/corner{dir = 4},/obj/structure/railing/corner,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Ss" = (/obj/machinery/light{dir = 1},/turf/open/indestructible/dropship{icon_state = "rasputin5"},/area/dropship/generic)
+"TR" = (/obj/machinery/light{dir = 4},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"TX" = (/turf/open/indestructible/dropship{icon_state = "rasputin8"},/area/dropship/generic)
+"UU" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_weapon_ll"},/area/dropship/generic)
+"VJ" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_wing_lb"},/area/dropship/generic)
+"Wk" = (/obj/machinery/door/airlock/ship/hatch,/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Xn" = (/obj/structure/railing/corner{dir = 1},/obj/structure/railing/corner{dir = 8},/turf/open/indestructible/dropship{icon_state = "rasputin15"},/area/dropship/generic)
+"Xq" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_rearwing_lt"},/area/dropship/generic)
+"ZD" = (/turf/closed/wall/indestructible/dropship{icon_state = "blue_cockpit_fl"},/area/dropship/generic)
+
+(1,1,1) = {"
+BHBHBHBHBHBHBHBHBHBHBHBHBHBHBH
+BHGAGAGAGAGAGAGAGAGAGAGAGAGABH
+BHGAGAGAGAGAGAGAGAGAGAGAGAGABH
+BHGAGAGAGAGAGAGAGAGAGAGAGAGABH
+BHGAGAGAGArZJfJfJfmtGAGAGAGABH
+BHGAGAGAGAZDixcAFkGlGAGAGAGABH
+BHGAGAGAGAyCPSHUnwONGAGAGAGABH
+BHGAGAGAGAyCRvBzpRyCGAGAGAGABH
+BHGAGAUUxBgVzgGdzggVxBKXGAGABH
+BHlpPYKTFczmFcLLPfyIFcRflpPYBH
+BHzLPwyCbZDlsQEJSsDlPVONzLPwBH
+BHzLPwyCGdisNLsGNLAYGdONzLPwBH
+BHzLPwpvGdxVADEjADnMGdSlzLPwBH
+BHzLPwhsGdxVADEjADnMGdEBzLPwBH
+BHzLPwyCAAQELBEjCsNjKcONzLPwBH
+BHzLPwyClFFhxVDtnMdlTXONzLPwBH
+BHVJrecSErGdtPHUSrGdODGRVJreBH
+BHGAGAGAgVGdxVDtnMGdONGAGAGABH
+BHGAGAUUQmyixVmTnMlFONKXGAGABH
+BHGAGAKTkPWkDTxAsPWkxrRfGAGABH
+BHGAGAyCCOGdxVmTnMGdDUONGAGABH
+BHlpPYyCiiGdtPDtSrGdTRONlpPYBH
+BHzLPwpvdaGdxVHUnMGdhtSlzLPwBH
+BHzLPwhsmTGdxVDtnMGdmTEBzLPwBH
+BHzLPwyCdaGdxVHUnMGdhtONzLPwBH
+BHzLPwyCScGdXnDtllGdwRONzLPwBH
+BHVJreyCdaoYxVmTnMoYhtONVJreBH
+BHGAGAcSxiFwDTxAsPFwxiGRGAGABH
+BHGAGAGAXqGAGAGAGAGADuGAGAGABH
+BHBHBHBHBHBHBHBHBHBHBHBHBHBHBH
+"}

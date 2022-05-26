@@ -1,0 +1,303 @@
+"ad" = (/obj/machinery/door/airlock/ship/external/glass{dir = 4},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"az" = (/obj/machinery/computer/piratepad_control,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"aB" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 5},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"aI" = (/obj/effect/turf_decal/ship/delivery/yellow,/turf/open/floor/engine,/area/maintenance/cargostation)
+"bb" = (/obj/effect/turf_decal/bot/left,/obj/structure/reagent_dispensers/watertank,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"bj" = (/obj/effect/turf_decal/box/corners{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"bs" = (/obj/structure/tank_dispenser/oxygen,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"bz" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"bC" = (/obj/machinery/chem_dispenser/drinks,/obj/structure/table/wood,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"ck" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 9},/obj/structure/lattice,/turf/open/space/basic,/area/space)
+"cy" = (/obj/structure/chair/mono_sofa/left,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"cB" = (/obj/effect/turf_decal/box/white/corners{dir = 4},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"ds" = (/obj/machinery/door/airlock/ship/external/glass{dir = 4},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"dv" = (/obj/effect/turf_decal/trimline/yellow/filled/warning,/obj/effect/turf_decal/stripes/line{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"dz" = (/obj/structure/railing{dir = 9},/obj/effect/turf_decal/stripes/line{dir = 9},/turf/open/floor/engine,/area/maintenance/cargostation)
+"dR" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 4},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"ej" = (/obj/machinery/door/airlock/ship/public/glass{dir = 4; name = "Supply Station"},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"ek" = (/turf/open/space/basic,/area/maintenance/cargostation)
+"eu" = (/turf/closed/wall/r_wall,/area/maintenance/cargostation)
+"ez" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 1},/obj/effect/turf_decal/trimline/red/warning{dir = 1},/obj/machinery/atmospherics/pipe/layer_manifold,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"eE" = (/obj/machinery/computer/station_alert{name = "ship alert console"},/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"eH" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"eI" = (/obj/effect/turf_decal/box/white/corners{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"eZ" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 1},/obj/effect/turf_decal/stripes/line{dir = 4},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"fm" = (/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"fL" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 1},/obj/effect/turf_decal/trimline/red/warning{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"fN" = (/obj/effect/turf_decal/plaque,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"gc" = (/obj/effect/turf_decal/bot/left,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"gg" = (/obj/structure/lattice/catwalk/over,/obj/structure/lattice,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"go" = (/obj/structure/bookcase/random/fiction,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"hE" = (/obj/item/kirbyplants{icon_state = "plant-02"},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"hS" = (/obj/machinery/chem_dispenser/drinks/beer,/obj/structure/table/wood,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"hZ" = (/obj/structure/table,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"ie" = (/obj/effect/turf_decal/ship/outline,/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"iq" = (/obj/effect/turf_decal/stripes/line,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"iz" = (/obj/item/kirbyplants{icon_state = "plant-21"},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"iK" = (/obj/effect/turf_decal/arrows,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"iS" = (/obj/effect/turf_decal/box/corners{dir = 1},/obj/effect/turf_decal/box/corners{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"iT" = (/obj/effect/turf_decal/trimline/white/filled/line,/obj/effect/turf_decal/trimline/red/warning,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"jD" = (/obj/effect/turf_decal/bot_red,/obj/structure/munitions_trolley,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"jM" = (/obj/effect/turf_decal/caution/stand_clear/white,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"jQ" = (/obj/structure/fireplace,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"kf" = (/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"kt" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 10},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"kE" = (/obj/structure/table/wood,/obj/structure/fluff/paper/stack{dir = 10},/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"kG" = (/obj/effect/turf_decal/loading_area/white,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"kH" = (/obj/structure/chair/mono_sofa/right,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"lm" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/maintenance/cargostation)
+"lC" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/turf/open/space/basic,/area/maintenance/cargostation)
+"lH" = (/obj/effect/turf_decal/bot/left,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"lN" = (/obj/effect/turf_decal/trimline/white/filled/line,/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"lO" = (/obj/effect/turf_decal/stripes/line{dir = 4},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"mk" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 9},/turf/open/space/basic,/area/space)
+"mt" = (/obj/effect/turf_decal/caution/stand_clear/white,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"mx" = (/obj/structure/railing{dir = 6},/obj/effect/turf_decal/stripes/line{dir = 6},/turf/open/floor/engine,/area/maintenance/cargostation)
+"mz" = (/obj/effect/turf_decal/box/red,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"mQ" = (/obj/machinery/atmospherics/components/binary/dp_vent_pump/layer1{dir = 1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"mS" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 8},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"nq" = (/obj/machinery/atmospherics/pipe/manifold4w/supply/hidden/layer1,/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden/layer3,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"nT" = (/obj/item/kirbyplants{icon_state = "plant-02"},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"or" = (/obj/effect/turf_decal/bot,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"oI" = (/obj/structure/lattice,/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 5},/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/turf/open/space/basic,/area/maintenance/cargostation)
+"oP" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 1},/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"pp" = (/obj/structure/railing,/turf/open/floor/engine,/area/maintenance/cargostation)
+"pH" = (/obj/effect/turf_decal/loading_area{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"qi" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"qy" = (/turf/closed/wall/r_wall,/area/space)
+"qF" = (/obj/effect/turf_decal/ship/shutoff,/obj/effect/turf_decal/stripes/line,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"qU" = (/obj/effect/turf_decal/trimline/white/filled/line,/obj/effect/turf_decal/trimline/red/warning,/obj/machinery/advanced_airlock_controller/directional/west,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"qW" = (/obj/structure/lattice,/obj/structure/lattice/catwalk/over,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"ri" = (/obj/effect/turf_decal/stripes/line{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"rm" = (/obj/item/clothing/head/cone{pixel_x = -6; pixel_y = 6},/turf/open/floor/plating/foam,/area/maintenance/cargostation)
+"rE" = (/obj/item/clothing/head/cone{pixel_x = -6; pixel_y = 6},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"rO" = (/obj/effect/turf_decal/bot,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"sc" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"sd" = (/obj/effect/turf_decal/ship/borderfloor/corner{dir = 4},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"sD" = (/obj/effect/turf_decal/stripes/line{dir = 6},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"sN" = (/obj/effect/turf_decal/ship/shutoff,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"tc" = (/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"ug" = (/obj/machinery/door/airlock/ship/public/glass{dir = 1; name = "Supply Station"},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"uu" = (/obj/effect/turf_decal/ship/shutoff,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"uD" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"uI" = (/obj/structure/table/reinforced,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"vj" = (/obj/effect/turf_decal/box/white/corners,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"vv" = (/obj/effect/turf_decal/caution/stand_clear,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"vD" = (/obj/structure/closet/crate/bin,/obj/structure/fluff/paper/stack,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"vL" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 1},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"vR" = (/obj/effect/turf_decal/arrows{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"wf" = (/obj/effect/turf_decal/bot_red,/obj/structure/tank_dispenser/oxygen,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"wi" = (/obj/effect/turf_decal/stripes/line{dir = 10},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"wo" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal,/obj/structure/lattice,/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 6},/turf/open/space/basic,/area/maintenance/cargostation)
+"wv" = (/obj/item/kirbyplants,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"wM" = (/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"xA" = (/turf/open/floor/monotile/dark/airless,/area/space)
+"xZ" = (/obj/machinery/door/airlock/ship/public/glass{dir = 1; name = "Supply Station"},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"yJ" = (/obj/structure/lattice,/obj/effect/turf_decal/ship/borderfloor/gunmetal/corner{dir = 1},/turf/open/space/basic,/area/space)
+"yN" = (/obj/structure/railing{dir = 10},/obj/effect/turf_decal/stripes/line{dir = 10},/turf/open/floor/engine,/area/maintenance/cargostation)
+"yU" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 4},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"yZ" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 6},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"zs" = (/obj/structure/table/wood,/obj/structure/fluff/paper/stack{dir = 8},/obj/structure/fluff/paper/stack,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"zu" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 5},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"zG" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"zW" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 8},/turf/open/space/basic,/area/maintenance/cargostation)
+"AG" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 4},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"Bp" = (/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"BT" = (/obj/effect/turf_decal/stripes/line,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Cb" = (/obj/structure/aquarium,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Cz" = (/obj/structure/chair/comfy/brown{dir = 1},/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"CE" = (/obj/effect/turf_decal/stripes/line{dir = 1},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"CS" = (/obj/effect/turf_decal/bot,/turf/open/floor/engine,/area/maintenance/cargostation)
+"CY" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer1{dir = 8},/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Ew" = (/obj/effect/turf_decal/bot/right,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"ED" = (/obj/machinery/power/apc/away,/turf/closed/wall/r_wall,/area/maintenance/cargostation)
+"EW" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 1},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"EZ" = (/obj/effect/turf_decal/trimline/yellow/filled/warning,/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Fa" = (/obj/effect/turf_decal/stripes/line{dir = 9},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Fi" = (/obj/structure/table/wood,/obj/item/paper/contract/employment,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"Fs" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 8},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"FG" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 4},/obj/structure/lattice,/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"FH" = (/obj/structure/lattice,/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 4},/turf/open/space/basic,/area/maintenance/cargostation)
+"FQ" = (/obj/effect/turf_decal/trimline/white/filled/line,/obj/effect/turf_decal/trimline/red/warning,/obj/machinery/atmospherics/pipe/layer_manifold,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Gc" = (/obj/effect/turf_decal/box/white/corners,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Gj" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/turf/open/space/basic,/area/space)
+"GT" = (/obj/effect/turf_decal/box,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Hy" = (/obj/effect/turf_decal/trimline/yellow/filled/warning,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Hz" = (/obj/structure/railing{dir = 5},/obj/effect/turf_decal/stripes/line{dir = 5},/turf/open/floor/engine,/area/maintenance/cargostation)
+"HC" = (/obj/effect/turf_decal/trimline/yellow/filled/line{dir = 4},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"HL" = (/obj/effect/turf_decal/trimline/yellow/filled/warning{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Ie" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal,/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"Iq" = (/obj/structure/filingcabinet,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"IF" = (/obj/structure/chair/stool,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Jj" = (/obj/effect/turf_decal/stripes/line{dir = 10},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Jz" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/structure/overmap/small_craft/transport/sabre,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"JE" = (/obj/docking_port/stationary{dir = 2; dwidth = 1; height = 2; id = "supply_home"; name = "Atlas Mini Cargo"; width = 3},/obj/structure/railing/corner{dir = 4; pixel_y = 1},/obj/structure/railing/corner{dir = 1; pixel_y = 1},/turf/open/floor/engine,/area/maintenance/cargostation)
+"JY" = (/obj/effect/turf_decal/ship/borderfloor/corner,/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"KE" = (/obj/effect/turf_decal/box/corners,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"KJ" = (/obj/structure/table/wood,/obj/item/paper_bin,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"KX" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 8},/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"La" = (/obj/effect/turf_decal/caution/white,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"LY" = (/obj/machinery/atmospherics/components/binary/dp_vent_pump/layer1,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Ml" = (/obj/effect/turf_decal/box/white/corners{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Mt" = (/obj/structure/table/wood,/obj/item/newspaper,/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"MC" = (/obj/effect/turf_decal/delivery/red,/obj/structure/reagent_dispensers/fueltank/cryogenic_fuel,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"MH" = (/obj/effect/turf_decal/bot_red,/obj/structure/reagent_dispensers/fueltank,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Ni" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal,/turf/open/space/basic,/area/maintenance/cargostation)
+"NJ" = (/obj/vehicle/sealed/car/realistic/cargo,/obj/effect/turf_decal/box/white/corners{dir = 8},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"NO" = (/obj/effect/turf_decal/stripes/line{dir = 9},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Ol" = (/obj/machinery/computer/cargo{dir = 8},/turf/open/floor/carpet/red,/area/maintenance/cargostation)
+"Os" = (/obj/effect/turf_decal/stripes/line{dir = 5},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"OG" = (/obj/effect/turf_decal/box/corners{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"OH" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 9},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"OO" = (/obj/structure/fluff/paper/stack{dir = 6},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"OX" = (/obj/machinery/door/airlock/ship/public/glass{dir = 4; name = "Supply Station"},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"PE" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 4},/turf/open/space/basic,/area/maintenance/cargostation)
+"PK" = (/turf/open/floor/plating/foam,/area/maintenance/cargostation)
+"Qd" = (/obj/machinery/suit_storage_unit/ert/engineer,/obj/effect/turf_decal/ship/outline,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Qe" = (/obj/structure/rack,/obj/item/clothing/shoes/magboots/advance,/obj/item/clothing/shoes/magboots/advance,/obj/item/clothing/shoes/magboots/advance,/obj/item/clothing/shoes/magboots/advance,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"RA" = (/obj/structure/chair/mono_sofa,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Sd" = (/obj/structure/lattice,/turf/open/space/basic,/area/maintenance/cargostation)
+"Sm" = (/obj/effect/turf_decal/arrows{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Sx" = (/obj/effect/turf_decal/loading_area{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Tu" = (/obj/item/kirbyplants{icon_state = "plant-10"},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"TW" = (/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Uk" = (/obj/effect/turf_decal/bot_red/left,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"UC" = (/obj/structure/lattice,/turf/open/space/basic,/area/space)
+"UF" = (/obj/effect/turf_decal/stripes/corner{dir = 8},/obj/machinery/door/airlock/ship/public/glass{dir = 4; name = "Supply Station"},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"UH" = (/obj/effect/turf_decal/bot/left,/obj/structure/closet/emcloset/anchored,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"UY" = (/obj/effect/turf_decal/delivery,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Vf" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 8},/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 9},/turf/open/space/basic,/area/maintenance/cargostation)
+"VJ" = (/obj/effect/turf_decal/trimline/white/filled/line{dir = 6},/turf/open/floor/monotile/steel,/area/maintenance/cargostation)
+"Wx" = (/obj/effect/turf_decal/bot/left,/obj/structure/closet/firecloset,/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"WA" = (/obj/effect/turf_decal/box/white/corners{dir = 1},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"WT" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal/corner{dir = 1},/turf/open/space/basic,/area/space)
+"XQ" = (/obj/effect/turf_decal/box/corners{dir = 4},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Yb" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/obj/structure/lattice,/turf/open/space/basic,/area/space)
+"YO" = (/obj/structure/table/wood,/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+"Zi" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal{dir = 1},/obj/effect/turf_decal/ship/borderfloor/gunmetal/corner{dir = 1},/turf/open/floor/monotile/dark/airless,/area/maintenance/cargostation)
+"Zk" = (/turf/open/space/basic,/area/space)
+"Zu" = (/obj/effect/turf_decal/ship/borderfloor/gunmetal/corner{dir = 1},/obj/structure/lattice,/turf/open/space/basic,/area/space)
+"ZM" = (/obj/effect/turf_decal/stripes/corner{dir = 4},/turf/open/floor/monotile/dark,/area/maintenance/cargostation)
+
+(1,1,1) = {"
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGLaekzWZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkckYbYb
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkckYbYbYbYbZuxAxA
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkckYbYbYbYbZuxAxAZkxAxAmkGj
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkckYbYbYbYbZuxAxAZkxAxAmkGjGjGjGjWTZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkUCUCZkZkZkZkZkZkckYbYbYbYbyJxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkUCUCckYbYbYbYbZuxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkckYbYbYbYbZuxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekLazWZkZkZkZkZkZkZkZkckYbYbYbYbZuxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkckYbYbYbYbZuxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfSdZiYbYbYbyJxAxAZkxAxAmkGjGjGjGjWTZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfSdkfxAZkxAxAmkGjYbGjGjWTZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfSdVfGjGjGjGjWTUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGLaekzWUCUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekKXUCZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekLazWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGLaekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekLazWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPELaekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekKXUCSdSdSdSdSdSdSdeueueueueueueueueueueueueueueueueueueueueueueueueuqyUCUCUCUCUCUCUCUCUCZkZkUC
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkekekekekekekekeuwMwMwMwMeuwMwMwMwMeuFaCECECECECECECECECECECEOseuqyqyqyUCUCUCZkZkZkUCUCUCUC
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkekekekekekekekeuwMwMwMwMeuwMwMwMwMeuTWWAcBwMwMWAcBwMwMWAcBwMlOeuZkZkqyqyqyZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkekekekekekekekeueueuxZeueueuugeueueuTWNJvjwMwMNJvjwMwMNJvjwMlOeuZkZkZkZkqyqyZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdAGkfekzWZkekekekekekekekeueutctctctctctctctceuTWkGkGwMwMkGkGwMwMkGkGwMlOeuZkZkZkZkZkqyqyZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWZkeueueueueueueueueutctctctctctctctcejwMmtmtwMwMmtmtwMwMmtmtwMlOeuZkZkZkZkZkZkqyqyZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGkfekzWqyeukHRARAcyeuwMwMeueueuxZeueueueueueuTWwMwMwMwMwMwMwMwMwMwMwMlOscZkZkZkZkZkZkZkqyZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekAGekLazWqywMwMwMwMwMeuwMwMkfkfkfkfkfkfkfkfkfeuTWwMwMwMwMwMsNwMwMwMwMwMlOscZkZkZkZkZkZkZkqyqyZkZkZkZk
+ZkZkZkZkZkZkZkZkZkekekJYIeIeIeIeIeIeIeIeIeIeIeIeIeIeIeIeIeIewoNizGKXeuwMIFhZIFwMeuwMwMkfkfkfkfkfkfkfkfkfeuTWwMwMwMwMBTBTBTwMwMwMwMlOeuekekekekekekekekeuekZkZkZk
+ZkZkZkZkZkZkZkZkZkekJYyZNOririririririririririririririririririririKXlmwMIFhZIFwMeueueueueueueueueueueueueuEZwMwMwMHyeueueuHykfkfkfdveueueueueueueueueueueuZkZkZk
+ZkZkZkZkZkZkZkZkZkJYyZNOkfkfkfkfOGrOrOkfMlkfeIkfrOrOXQkfkfkfkfkfkfKXlmwMIFhZIFwMOXwMwMwMwMwMwMOXtctctctctczuFswMdROHtctctczuFswMdROHtcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGNOkfkfkfkfkfpHUYUYkfkfjMkfkfUYUYSxkfkfkfrEkfkfKXlmwMwMwMwMwMeuwMwMwMwMwMwMeutcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpgckfGTGTGTkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfkfkfbjrOrOkfJzkfGckfrOrOKEkfkfkfkfkfkfKXeuwvhSCbbChEeuQdQdQebsQdQdeutcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfqWqWqWkfkfqWqWqWqWqWkfkfqWqWqWkfkfkfrEeueulmlmlmlmeuEDlmlmlmlmlmlmeutcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpgckfGTGTGTkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpPKrmkfkfkfkfkfvRkfkfvvkfkfvRkfkfkfkfiKkfkfkfeuqUFQiTFQiTeulNlNlNlNlNlNlNlNlNlNlNlNlNVJFswMdRktlNlNlNVJFswMdRmStcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpSdPKkfkfbbkfggkfwfMCeuMCjDkfggkfUHkfkfkfvRkfdskfmQkfmQkfadHLHLHLHLHLHLHLHLHLHLHLHLHLHLwMwMwMHLHLHLHLHLwMwMdRmStcHCBpgckfGTGTGTkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBprmkfkfkfeukfggkfeueueueueukfggkfeukfkfkfkffNdskfCYqinqqiadkfuukfkfkfkfkfkfkfkfkfkfkfkfwMsNwMkfkfkfkfkfwMwMdRmStcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfkfWxkfggkfjDMCeuMCMHkfggkfbbkfkfkfvRkfdskfLYkfLYkfadHyHyHyHyHyHyHyHyHyHyHyHyHyHywMwMwMHyHyHyHyHywMwMdRmStcHCBpgckfGTGTGTkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfkfkfkfkfvRkfkfvvkfkfvRkfkfkfkfSmkfkfkfeufLezfLezfLeuvLvLvLvLvLvLvLvLvLvLvLvLvLzuFswMdROHvLvLvLzuFswMdRmStcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfqWqWqWkfkfqWqWqWqWqWkfkfqWqWqWkfkfkfrEeueulmlmlmlmeueueueueulmlmlmeutcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpgckfGTGTGTkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGBpkfkfkfkfkfiSrOrOkfMlkfeIkfrOrOXQkfkfkfkfkfkfKXeuizIqIqIqhEeuwMjQwMwMwMwMlmtcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkAGJjkfkfkfkfkfpHUYUYkfkfjMkfkfUYUYSxkfkfkfrEkfkfKXlmwMwMwMwMwMeuwMwMYOYOwMwMlmtcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpUkkfmzmzmzkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZksdaBJjkfkfkfkfbjrOrOkfbzkfGckfrOrOKEkfkfkfkfkfkfKXlmwMwMwMwMwMOXwMwMYOYOwMwMeutcietctcieyUFswMdRmSietcieyUFswMdRmStcHCBpUkkfmzmzmzkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkeksdaBJjiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqiqKXlmwMzsFiMtwMeugowMwMwMwMwMOXtctctctctcVJFswMdRkttctctcVJFswMdRkttcHCBpkfkfkfkfkfkfeueuZkZkZk
+ZkZkZkZkZkZkZkZkZkekeksdeHeHeHeHeHeHeHeHeHeHeHeHeHeHeHeHeHeHoIlCuDKXeuwMKJCzkEwMeueueueuugeueueueulmlmeueuoPwMwMwMEWeueueuEWwMwMwMeZeueueueueueueueueueuekZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHekLazWqywMwMwMwMwMeuwMwMwMwMwMwMwMlOeEazuIlmTWwMwMwMwMCECECEwMwMwMwMlOeuZkZkZkZkZkZkZkqyqyZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWqyeuTuvDOOnTeuwMwMwMwMwMwMwMlOfmfmOllmTWwMwMwMwMwMsNwMwMwMwMwMlOscZkZkZkZkZkZkZkqyZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEkfekzWZkeueueueueueueueuwMwMwMwMwMZMCECECEeuTWwMwMwMwMwMwMwMwMwMwMwMlOscZkZkZkZkZkZkqyqyZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEkfekzWZkekekekekekekekeuBTBTBTqFBTBTBTBTBTUFwMwMlHorordzJEHzororEwwMlOeuZkZkZkZkZkqyqyZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkekekekekekekekeuCSCSCSCSCSCSCSCSCSeuTWwMlHororyNppmxororEwwMlOeuZkZkZkZkqyqyZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHekkfzWZkekekekekekekekeuCSaICSCSaICSCSaICSeuTWwMwMwMwMwMwMwMwMwMwMwMlOeuZkZkqyqyqyZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkekekekekekekekeuCSCSCSCSCSCSCSCSCSeuwiBTBTBTBTBTBTBTBTBTBTBTsDeuqyqyqyZkUCUCUCUCUCZkZkUCUC
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHkfekKXUCSdSdSdSdSdSdSdeueueueueueueueueueueueueueueueueueueueueueueueueuqyUCUCUCUCZkZkUCUCUCUCUCUC
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHLaekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekLazWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPELaekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkekFHekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekLazWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdPEekkfzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+ZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkSdFHkfekzWZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZkZk
+"}

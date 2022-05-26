@@ -1,0 +1,28 @@
+Grand Admiral
+Fleet Admiral
+Admiral
+General
+Commodore
+CPT
+CDR
+LTCDR
+LT
+FLT
+SLT
+ENS
+CWO
+WO
+GYSGT
+SGT
+CPO
+PO1
+PO2
+PO3
+CMN
+SPC
+PFC
+MID
+CIV
+OC
+VIP
+CPU
