@@ -10,3 +10,4 @@
 # and will override any duplicate entries in the database.									  #
 ###############################################################################################
 # the rest are in the db
+Fleetgothic=Host

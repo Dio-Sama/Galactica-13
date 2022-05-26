@@ -18,14 +18,14 @@ $include resources.txt
 
 # You can use the @ character at the beginning of a config option to lock it from being edited in-game
 # Example usage:
-# @SERVERNAME Kobol-13
+# @SERVERNAME Galactica-13
 # Which sets the SERVERNAME, and disallows admins from being able to change it using View Variables.
 # @LOG_TWITTER 0
 # Which explicitly disables LOG_TWITTER, as well as locking it.
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'beestation' with the name of your choice.
-@SERVERNAME Kobol-13
+@SERVERNAME Galactica-13
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
 @SERVERSQLNAME ss13galactica
