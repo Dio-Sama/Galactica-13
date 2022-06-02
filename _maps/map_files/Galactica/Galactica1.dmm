@@ -159,6 +159,9 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
 /turf/open/floor/monotile/dark,
 /area/security/brig)
 "aw" = (
@@ -1342,6 +1345,10 @@
 /obj/item/clothing/shoes/winterboots,
 /turf/open/floor/plasteel/ship,
 /area/maintenance/nsv/deck1/starboard)
+"dD" = (
+/obj/machinery/power/solar,
+/turf/open/floor/plasteel/airless/solarpanel,
+/area/space/nearstation)
 "dE" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -2467,6 +2474,12 @@
 	},
 /turf/open/floor/engine,
 /area/construction)
+"gR" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/monotile/steel,
+/area/security/brig)
 "gS" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -4102,6 +4115,19 @@
 	},
 /turf/open/floor/monotile/steel,
 /area/medical/genetics)
+"lo" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/computer/reactor/control_rods{
+	name = "Reactor 1 Control rod management computer"
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/monotile/dark,
+/area/bridge/cic)
 "lp" = (
 /obj/effect/turf_decal/tile/ship/half/red{
 	dir = 8
@@ -4194,7 +4220,10 @@
 /turf/open/floor/monotile/dark,
 /area/security/brig)
 "lB" = (
-/obj/machinery/power/smes/engineering,
+/obj/machinery/power/smes/engineering{
+	input_level = 200000;
+	output_level = 190000
+	},
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/starboard/fore)
@@ -6200,6 +6229,13 @@
 	},
 /turf/open/floor/monotile/steel,
 /area/crew_quarters/dorms)
+"qX" = (
+/obj/effect/turf_decal/tile/ship/half/red,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/monotile/dark,
+/area/security/brig)
 "qY" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -6351,6 +6387,17 @@
 /obj/effect/landmark/zebra_interlock_point,
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/starboard/fore)
+"rs" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/machinery/computer/reactor/stats{
+	id = "default_reactor_for_lazy_mappers2";
+	name = "Reactor 2 Statistics Console"
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/monotile/steel,
+/area/bridge/cic)
 "rt" = (
 /obj/effect/turf_decal/tile/ship/half/red{
 	dir = 8
@@ -7206,10 +7253,6 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/structure/table/reinforced,
-/obj/item/paper_bin,
-/obj/item/pen/fountain,
-/obj/item/folder/yellow,
 /obj/machinery/button/door{
 	id = "bridge_blast";
 	name = "CIC blast doors";
@@ -8281,6 +8324,9 @@
 	},
 /obj/effect/turf_decal/tile/ship/half/red{
 	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
 	},
 /turf/open/floor/monotile/dark,
 /area/security/warden)
@@ -9445,12 +9491,20 @@
 /turf/open/floor/monotile/steel,
 /area/crew_quarters/dorms)
 "zQ" = (
-/obj/effect/turf_decal/stripes/line{
-	dir = 8
+/obj/structure/cable{
+	icon_state = "4-8"
 	},
-/obj/structure/chair/office,
-/turf/open/floor/monotile/steel,
-/area/bridge/cic)
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3,
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer1,
+/obj/structure/lattice/catwalk/over/ship,
+/turf/open/floor/monotile/dark,
+/area/hallway/nsv/deck1/frame1/central)
 "zR" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -10777,6 +10831,11 @@
 /obj/machinery/ai_slipper,
 /turf/open/floor/plasteel/grid/techfloor,
 /area/ai_monitored/turret_protected/ai)
+"DB" = (
+/obj/structure/grille/wall,
+/obj/structure/grille/wall,
+/turf/open/floor/engine/airless,
+/area/space/nearstation)
 "DD" = (
 /obj/item/radio/intercom/directional/east,
 /turf/open/floor/plasteel/ship,
@@ -11585,6 +11644,10 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/obj/machinery/computer/reactor/control_rods{
+	name = "Reactor 1 Control rod management computer"
+	},
+/obj/structure/table/reinforced,
 /turf/open/floor/monotile/dark,
 /area/bridge/cic)
 "FO" = (
@@ -13656,12 +13719,12 @@
 /obj/machinery/atmospherics/components/binary/dp_vent_pump/high_volume/layer1{
 	dir = 1
 	},
-/obj/machinery/power/terminal{
-	dir = 4
-	},
 /obj/structure/cable/yellow,
 /obj/structure/cable/yellow{
 	icon_state = "1-2"
+	},
+/obj/machinery/power/terminal{
+	dir = 4
 	},
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/port)
@@ -14361,6 +14424,19 @@
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/monotile/dark,
 /area/engine/engineering)
+"MI" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/grille,
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plating,
+/area/security/warden)
 "MJ" = (
 /obj/effect/turf_decal/tile/ship/yellow{
 	dir = 8
@@ -14548,11 +14624,13 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 9
 	},
-/obj/structure/rack,
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-/obj/item/storage/fancy/donut_box,
+/obj/structure/table/reinforced,
+/obj/machinery/computer/reactor/stats{
+	name = "Reactor 1 Statistics Console"
+	},
 /turf/open/floor/monotile/steel,
 /area/bridge/cic)
 "No" = (
@@ -14860,6 +14938,18 @@
 /obj/machinery/door/firedoor/border_only/directional/west,
 /turf/open/floor/monotile/dark,
 /area/shuttle/turbolift/quaternary)
+"Oc" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/monotile/dark,
+/area/bridge/cic)
 "Od" = (
 /obj/structure/grille,
 /obj/structure/grille,
@@ -15688,7 +15778,7 @@
 /turf/open/openspace,
 /area/security/brig)
 "Qh" = (
-/obj/machinery/ship_weapon/deck_turret/north,
+/obj/machinery/ship_weapon/deck_turret/_3/north,
 /turf/open/floor/engine/airless,
 /area/space/nearstation)
 "Qj" = (
@@ -16114,6 +16204,12 @@
 /obj/effect/landmark/zebra_interlock_point,
 /turf/open/floor/carpet/ship,
 /area/quartermaster/qm)
+"Rr" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/closed/wall/r_wall,
+/area/security/warden)
 "Rs" = (
 /obj/structure/grille,
 /obj/structure/cable{
@@ -16996,6 +17092,15 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/monotile/dark,
 /area/nsv/briefingroom)
+"TN" = (
+/obj/effect/turf_decal/tile/ship/half/red{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/monotile/dark,
+/area/security/brig)
 "TO" = (
 /obj/machinery/announcement_system,
 /obj/machinery/airalarm/directional/west,
@@ -17764,7 +17869,10 @@
 	dir = 4;
 	pixel_y = 10
 	},
-/obj/machinery/power/smes/engineering,
+/obj/machinery/power/smes/engineering{
+	output_level = 190000;
+	input_level = 200000
+	},
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
@@ -19110,6 +19218,15 @@
 /obj/effect/turf_decal/delivery/white,
 /turf/open/floor/monotile/steel,
 /area/ai_monitored/security/armory)
+"Zb" = (
+/obj/effect/turf_decal/tile/ship/half/red{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/monotile/dark,
+/area/security/brig)
 "Zc" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -19143,7 +19260,7 @@
 /turf/open/floor/engine/airless,
 /area/space/nearstation)
 "Zh" = (
-/obj/machinery/ship_weapon/deck_turret,
+/obj/machinery/ship_weapon/deck_turret/_3,
 /turf/open/floor/engine/airless,
 /area/space/nearstation)
 "Zi" = (
@@ -37264,23 +37381,23 @@ Sw
 Sw
 Sw
 Zg
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Du
+Du
+Du
+Du
+Du
+Du
 Du
 Zg
 Co
@@ -37521,7 +37638,7 @@ Sw
 Zg
 Zg
 Zg
-Zg
+Du
 Zg
 Zg
 Zg
@@ -37777,8 +37894,8 @@ Sw
 Sw
 Zg
 Zg
-Zg
-Zg
+Du
+Du
 Zg
 Zg
 Zg
@@ -38034,20 +38151,20 @@ Sw
 Sw
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+HN
+xf
 Zg
+Rb
+HN
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Cq
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+HN
+xf
 Zg
 Zg
 Du
@@ -38291,20 +38408,20 @@ Sw
 Sw
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -38548,20 +38665,20 @@ Sw
 Sw
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -38805,20 +38922,20 @@ Sw
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -39062,20 +39179,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -39319,20 +39436,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -39576,20 +39693,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -39833,20 +39950,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -40090,20 +40207,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -40347,20 +40464,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -40604,20 +40721,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -40861,20 +40978,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Du
@@ -41118,20 +41235,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -41375,20 +41492,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -41632,20 +41749,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -41889,20 +42006,20 @@ Zg
 Zg
 Zg
 Zg
+Du
+Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -42146,20 +42263,20 @@ Zg
 Zg
 Zg
 Zg
-Du
-Du
+DB
+DB
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -42406,17 +42523,17 @@ Zg
 Du
 Du
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -42663,17 +42780,17 @@ Zg
 Du
 Zg
 Zg
+Rb
+GW
+xf
 Zg
+Rb
+GW
+xf
 Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+Rb
+GW
+xf
 Zg
 Zg
 Zg
@@ -48344,7 +48461,7 @@ uh
 uh
 uQ
 Rm
-Hp
+zQ
 Su
 Pk
 TV
@@ -57375,18 +57492,18 @@ Zg
 Zg
 Zg
 Zg
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
-Sw
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
+Du
 Sw
 Sw
 Sw
@@ -57637,13 +57754,13 @@ AB
 xf
 AB
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
+AB
+dD
+AB
+dD
+AB
+dD
 Du
-Sw
 Sw
 Sw
 Sw
@@ -57894,13 +58011,13 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Du
-Sw
 Sw
 Sw
 Sw
@@ -58151,12 +58268,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Du
+bF
+dD
+bF
+dD
+bF
+dD
 Du
 Du
 Du
@@ -58408,12 +58525,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Du
 Du
@@ -58665,12 +58782,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Du
@@ -58922,12 +59039,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Du
@@ -59179,12 +59296,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -59436,12 +59553,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -59693,12 +59810,12 @@ bF
 xf
 bF
 xf
-Cq
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -59950,12 +60067,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -60207,12 +60324,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -60464,12 +60581,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -60721,12 +60838,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -60978,12 +61095,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -61235,12 +61352,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -61492,12 +61609,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -61749,12 +61866,12 @@ bF
 xf
 bF
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+bF
+dD
+bF
+dD
+bF
+dD
 Zg
 Zg
 Zg
@@ -61939,10 +62056,10 @@ cs
 px
 xA
 bh
-iz
-wP
-wP
-oB
+qX
+gR
+gR
+TN
 Qn
 ev
 aQ
@@ -62006,11 +62123,11 @@ gq
 tX
 nC
 tX
+nC
 tX
+nC
 tX
-tX
-tX
-tX
+nC
 tX
 cQ
 Zg
@@ -62199,7 +62316,7 @@ oc
 iz
 wP
 wP
-oB
+Zb
 rI
 vH
 aQ
@@ -62263,12 +62380,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Zg
@@ -62464,8 +62581,8 @@ Xu
 jT
 eH
 wO
-Jl
-xu
+Rr
+MI
 Jl
 ZM
 hy
@@ -62520,12 +62637,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -62777,12 +62894,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -63034,12 +63151,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -63291,12 +63408,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 mY
@@ -63548,12 +63665,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -63805,12 +63922,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -64062,12 +64179,12 @@ XA
 xf
 XA
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+XA
+dD
+XA
+dD
+XA
+dD
 Zg
 Zg
 Du
@@ -64319,12 +64436,12 @@ rh
 xf
 rh
 xf
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
+rh
+dD
+rh
+dD
+rh
+dD
 Zg
 Du
 Du
@@ -66341,8 +66458,8 @@ WK
 FN
 bx
 WD
-bx
-bx
+lo
+Oc
 oO
 Fc
 qT
@@ -66596,9 +66713,9 @@ VO
 NK
 aG
 Nn
-zQ
-tD
 cS
+tD
+rs
 Kc
 jI
 Hm

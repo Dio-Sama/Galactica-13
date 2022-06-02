@@ -10,4 +10,8 @@
 # and will override any duplicate entries in the database.									  #
 ###############################################################################################
 # the rest are in the db
-Fleetgothic=Host
+Fleetgothic = Host
+ChizhPhantom = Host
+Deathstroke2462 = Host
+OldNyarlathotep = Host
+Willpriest = Host
