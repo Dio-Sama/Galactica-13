@@ -2231,6 +2231,13 @@
 	},
 /turf/open/floor/monotile/dark/airless,
 /area/space/nearstation)
+"gj" = (
+/obj/machinery/power/rtg{
+	power_gen = 10000
+	},
+/obj/structure/cable/yellow,
+/turf/open/floor/engine/airless,
+/area/space/nearstation)
 "gk" = (
 /turf/closed/wall/r_wall,
 /area/shuttle/turbolift/secondary)
@@ -4122,10 +4129,11 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/computer/reactor/control_rods{
-	name = "Reactor 1 Control rod management computer"
-	},
 /obj/structure/table/reinforced,
+/obj/machinery/computer/reactor/control_rods{
+	id = "default_reactor_for_lazy_mappers2";
+	name = "Reactor 2 Control rod management computer"
+	},
 /turf/open/floor/monotile/dark,
 /area/bridge/cic)
 "lp" = (
@@ -4225,6 +4233,9 @@
 	output_level = 190000
 	},
 /obj/structure/cable,
+/obj/structure/cable/yellow{
+	icon_state = "1-2"
+	},
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/starboard/fore)
 "lC" = (
@@ -5344,9 +5355,11 @@
 /turf/open/floor/monotile/dark,
 /area/medical/surgery)
 "oE" = (
-/obj/machinery/power/rtg,
 /obj/structure/cable/yellow{
 	icon_state = "0-2"
+	},
+/obj/machinery/power/rtg{
+	power_gen = 10000
 	},
 /turf/open/floor/engine/airless,
 /area/space/nearstation)
@@ -6308,6 +6321,11 @@
 "rj" = (
 /obj/structure/window/reinforced{
 	dir = 1;
+	layer = 2.9
+	},
+/obj/structure/window/reinforced{
+	color = #1c1c1c;
+	dir = 4;
 	layer = 2.9
 	},
 /turf/open/floor/monotile/steel,
@@ -7550,6 +7568,11 @@
 /area/ai_monitored/nuke_storage)
 "ut" = (
 /obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	color = #1c1c1c;
+	dir = 4;
+	layer = 2.9
+	},
 /turf/open/floor/monotile/steel,
 /area/bridge/cic)
 "uv" = (
@@ -7715,6 +7738,9 @@
 	},
 /obj/structure/cable/yellow{
 	icon_state = "0-8"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "1-8"
 	},
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/starboard/fore)
@@ -8951,8 +8977,10 @@
 /turf/open/floor/monotile/steel,
 /area/medical/surgery)
 "yA" = (
-/obj/machinery/power/rtg,
 /obj/structure/cable/yellow,
+/obj/machinery/power/rtg{
+	power_gen = 10000
+	},
 /turf/open/floor/engine/airless,
 /area/space/nearstation)
 "yB" = (
@@ -11644,10 +11672,10 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/obj/structure/table/reinforced,
 /obj/machinery/computer/reactor/control_rods{
 	name = "Reactor 1 Control rod management computer"
 	},
-/obj/structure/table/reinforced,
 /turf/open/floor/monotile/dark,
 /area/bridge/cic)
 "FO" = (
@@ -12090,6 +12118,11 @@
 "GQ" = (
 /obj/machinery/computer/ship/tactical/console{
 	dir = 8
+	},
+/obj/structure/window/reinforced{
+	color = #1c1c1c;
+	dir = 4;
+	layer = 2.9
 	},
 /turf/open/floor/monotile/steel,
 /area/bridge/cic)
@@ -13725,6 +13758,9 @@
 	},
 /obj/machinery/power/terminal{
 	dir = 4
+	},
+/obj/structure/cable/yellow{
+	icon_state = "1-4"
 	},
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/port)
@@ -16140,6 +16176,11 @@
 /obj/machinery/computer/ship/navigation/console/end{
 	dir = 5
 	},
+/obj/structure/window/reinforced{
+	color = #1c1c1c;
+	dir = 4;
+	layer = 2.9
+	},
 /turf/open/floor/monotile/steel,
 /area/bridge/cic)
 "Rk" = (
@@ -17875,6 +17916,9 @@
 	},
 /obj/structure/cable{
 	icon_state = "0-2"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "2-8"
 	},
 /turf/open/floor/plating,
 /area/maintenance/nsv/deck1/port)
@@ -66113,7 +66157,7 @@ Du
 Zg
 oE
 sK
-yA
+gj
 Zg
 Du
 Zg
